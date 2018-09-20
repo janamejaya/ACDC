@@ -1,2 +1,3 @@
-# ACDC
-Attribute Clustering Dependent Communities
+# ACDC (Attribute Clustering Dependent Communities)
+
+ACDC is an unsupervised method for identification of communities in networks. It was originally formulated as an unsupervised method for classification of protein sequences. For details of the method, please refer to the open access manuscript [Community detection in sequence similarity networks based on attribute clustering](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178650). This repo contains a python implementation of ACDC. The key components of ACDC are cluster analysis, outlier detection, and community detection followed by refinement.
