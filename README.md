@@ -14,6 +14,6 @@ Required Libraries and software
 The entire workflow in ACDC can be split into the following steps
 1. step0 - First mask low complexity regions of each protein sequence in dataset with "segmasker" in the NCBI Blast suite.
            
-2. step1 - Generate scripts for generating pair alignments of each sequence with every sequence in the dataset. Run these scripts to generate the pair alignments.
+2. step1 - Generate scripts for generating pair alignments of each sequence with every sequence in the dataset. Run these scripts to generate the actual pair alignments.
 
 3. step2 - 
