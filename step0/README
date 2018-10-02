@@ -1,0 +1,5 @@
+Given a sequence file, mask regions of low complexity in the sequences. Save the masked sequence in the file masked_seqs.faa
+
+Uses the program segmasker that comes with the standard NCBI-BLAST installation
+
+Example path: /home/jc/progs/ncbi-blast-2.6.0+-src/c++/ReleaseMT/bin/segmasker
