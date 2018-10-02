@@ -1,3 +1,5 @@
+Step 0: Generate masked sequences
+
 Given a sequence file, mask regions of low complexity in the sequences. Save the masked sequence in the file masked_seqs.faa
 
 To implement this, set the following fields
