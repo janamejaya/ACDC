@@ -4,7 +4,7 @@ ACDC is an unsupervised method for identification of communities in networks. It
 
 Required Libraries and software
 1. SSEARCH from the [FASTA suite](https://github.com/wrpearson/fasta36) (for calculating sequence similarities)
-2. Segmasker from the [NCBI Blast](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) suite
+2. Segmasker from the [NCBI Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) suite
 3. Python 3.6+
 4. pandas (for data handling)
 5. scikit-learn (for clustering)
