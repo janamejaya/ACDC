@@ -10,10 +10,11 @@ Required Libraries and software
 5. scikit-learn (for clustering)
 6. networkx (for network analysis)
 7. joblib (for parallel processing)
+8. Jupyter notebook (for interactive computation)
 
 The entire workflow in ACDC can be split into the following steps
 1. step0 - First mask low complexity regions of each protein sequence in dataset with "segmasker" in the NCBI Blast suite.
            
 2. step1 - Generate scripts for generating pair alignments of each sequence with every sequence in the dataset. Run these scripts to generate the actual pair alignments.
 
-3. step2 - 
+3. step2 - Prune alignment data generated in step 1 so it can be used for sequence classification via community detection.
