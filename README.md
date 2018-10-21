@@ -17,4 +17,4 @@ The entire workflow in ACDC can be split into the following steps
            
 2. step1 - Generate scripts for generating pair alignments of each sequence with every sequence in the dataset. Run these scripts to generate the actual pair alignments.
 
-3. step2 - Prune alignment data generated in step 1 so it can be used for sequence classification via community detection.
+3. step2 - Prune and transform alignment features generated in step 1 so the data is ready to be used for sequence classification via community detection.
